@@ -1,4 +1,4 @@
-# TravelHub Project 🌍✈️
+# Travel Project 🌍✈️
 
 Welcome to Travel, a web project that combines the thrill of travel with the art of web development! Explore new destinations, discover travel tips, and embark on a virtual journey with us.
 
